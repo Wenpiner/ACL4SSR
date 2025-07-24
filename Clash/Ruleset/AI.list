@@ -4,6 +4,12 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
 DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients1.google.com
+DOMAIN,alkalimakersuite-pa.clients2.google.com
+DOMAIN,alkalimakersuite-pa.clients3.google.com
+DOMAIN,alkalimakersuite-pa.clients4.google.com
+DOMAIN,alkalimakersuite-pa.clients5.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
 DOMAIN,api.together.xyz
